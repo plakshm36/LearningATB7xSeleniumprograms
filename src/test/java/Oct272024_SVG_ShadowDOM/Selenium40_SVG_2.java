@@ -52,4 +52,3 @@ public class Selenium40_SVG_2 {
             driver.quit();
         }
     }
-}
